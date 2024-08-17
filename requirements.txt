@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+discord.py==2.4.0
+matplotlib==3.7.1
+mplfinance==0.12.10b0
+numpy==1.24.2
+pandas==2.0.0
+requests==2.31.0
+yfinance==0.2.32
+zigzag==0.3.2
